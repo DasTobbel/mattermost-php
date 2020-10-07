@@ -14,8 +14,8 @@
             "homepage": "https://www.formations-laravel.fr"
         },
         {
-            "name": "Tobias WEber",
-            "email": "tobbel@rndmiz.de",
+            "name": "Tobias Weber",
+            "email": "tobbel@rndmiz.de"
         }
     ],
     "autoload": {
